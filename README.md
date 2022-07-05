@@ -21,6 +21,6 @@
   <a href="https://instagram.com/gii.nasciment0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-rodrigues-do-nascimento-836097240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gi-nascimento/gi-nascimento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
